@@ -19,5 +19,13 @@
     "url": "https://github.com/abraaocrvlh42/aloha_api/issues"
   },
   "homepage": "https://github.com/abraaocrvlh42/aloha_api#readme",
-  "description": "Aloha is an API where you can check wave, tide and weather forecasts to enjoy the beach surfing."
+  "description": "Aloha is an API where you can check wave, tide and weather forecasts to enjoy the beach surfing.",
+  "devDependencies": {
+    "@types/module-alias": "^2.0.4",
+    "@types/node": "^24.10.1",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "module-alias": "^2.2.3"
+  }
 }
