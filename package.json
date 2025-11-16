@@ -23,7 +23,8 @@
     "Node",
     "Nodejs",
     "Typescript",
-    "Api"
+    "Api",
+    "Forecast"
   ],
   "author": "Abraão Carvalho",
   "license": "MIT",
@@ -43,3 +44,4 @@
     "module-alias": "^2.2.3"
   }
 }
+ 
