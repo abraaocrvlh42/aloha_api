@@ -1,1 +1,1 @@
-> Aloha API 😊
+> AlohaAPI 😊
